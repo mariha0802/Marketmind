@@ -1,0 +1,10 @@
+openai
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+tenacity
+rich
+pytest
+pytest-cov
+streamlit
